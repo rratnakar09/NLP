@@ -8,15 +8,12 @@ link: "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL"
 * 03 : Stemming words with NLTK
 * 04 : Part of Speech Tagging with NLTK
 * 05 : Chunking with NLTK
-* 06 : 
-* 07 :
-* 08 :
-* 09 :
-* 10 :
-* 11 :
-* 12 :
-* 13 :
-* 14 :
+* 06 : Chinking with NLTK
+* 07 : Named Entity Recognition with NLTK
+* 08 : Lemmatizing with NLTK
+* 09 : The corpora with NLTK
+* 10 : Wordnet with NLTK
+* 11-14 : Classification with NLTK
 * 15 :
 * 16 :
 * 17 :
